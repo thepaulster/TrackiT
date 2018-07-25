@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrackiT</string>
+    <string name="title_activity_driver_map">DriverMap</string>
+    <string name="title_activity_supervisors_map">Map</string>
+</resources>

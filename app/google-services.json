@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "446668907409",
+    "firebase_url": "https://trackit-b079e.firebaseio.com",
+    "project_id": "trackit-b079e",
+    "storage_bucket": "trackit-b079e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446668907409:android:7a10a033848551d7",
+        "android_client_info": {
+          "package_name": "com.grass.thatched.trackit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446668907409-fhjjkfm6v5203occc9neiu62t7oboatv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grass.thatched.trackit",
+            "certificate_hash": "7fdfbe3eff6efd5d45db343c7d980137fa5b61b9"
+          }
+        },
+        {
+          "client_id": "446668907409-28cufb7j61e684i36ckvhbr5rj3a25oe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "446668907409-28cufb7j61e684i36ckvhbr5rj3a25oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFB4UfgDXdTzutrYeipVHy0DHzmtSbj74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446668907409-28cufb7j61e684i36ckvhbr5rj3a25oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
